@@ -1,16 +1,14 @@
 2:
-Kapelle (Bann)
+Kapelle
 Herumtreiberin
-2P:
-Apotheker
 3:
 Arzt
 Fischerdorf
-Katapult/Felsen
+Schweriner Dom
 4:
-Junge Hexe
+Nomadencamp
 Villa
-Konklave
 5:
 Gesindel
+Geisterwald
 Graf
