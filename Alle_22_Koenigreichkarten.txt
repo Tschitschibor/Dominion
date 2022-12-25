@@ -1,0 +1,29 @@
+2:
+Kapelle
+Herumtreiberin
+3:
+Arzt
+Fischerdorf
+Katapult/Felsen
+Schweriner Dom
+4:
+Schäferin/Weideland
+Nomadencamp
+Junge Hexe/(Bann)
+Villa
+Totenbeschwörer/Zombies
+5:
+Geschichtenerzähler
+Gesindel
+Graf
+Geisterwald
+Herzog
+6:
+Großer Markt
+Adelige
+P:
+Weinberg
+2P:
+Apotheker
+4P:
+Golem
